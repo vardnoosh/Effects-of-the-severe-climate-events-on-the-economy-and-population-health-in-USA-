@@ -7,3 +7,7 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
 ## The data analysis wants to address the following questions :
 Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health ?
 Across the United States, which types of events have the greatest economic consequences ?
+
+
+## To preview the HTML files on GitHub:
+https://htmlpreview.github.io/?https://github.com/vardnoosh/Effects-of-the-severe-climate-events-on-the-economy-and-population-health-in-USA-/blob/main/pr.html
